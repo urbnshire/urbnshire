@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/urbnshire/urbnshire/output/snake.svg" alt="Snake animation" />
 
 ###
 
